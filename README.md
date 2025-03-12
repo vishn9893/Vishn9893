@@ -17,8 +17,6 @@ My name is Vishnudhat Natarajan
 👯 **I’m looking to collaborate on:**
 - Open-source projects focused on DevOps automation and security.
 - Innovative GenAI applications that can revolutionize IT operations.
-
-🤔 **I’m looking for help with:**
 - Integrating cutting-edge security tools into existing DevOps workflows.
 - Optimizing AI models for real-time monitoring and incident response.
 
